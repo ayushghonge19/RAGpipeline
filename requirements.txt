@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+pypdf
+pymupdf
+pypdf
+tiktoken
+sentence-transformers
+unstructured
+faiss-cpu
+ipykernel
+jupyter
+pandas
